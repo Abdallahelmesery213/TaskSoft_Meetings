@@ -1,0 +1,32 @@
+/* start Meetings */
+.Contacts-logo {
+  border: 8px solid rgb(242 242 242);
+  padding: 40px;
+  margin-left: 40px;
+  background-color: #fff;
+  margin: 35px 0;
+}
+
+.icons-contacts .one-icon {
+  border: 1px solid rgb(219 219 219);
+  border-bottom: 7px solid rgb(0 78 188);
+  margin: 0 10px;
+  padding-top: 10px;
+  height: 153px;
+}
+.icons-contacts .one-icon h6 {
+  padding: 7px 0;
+}
+/* end Meetings */
+
+/* start Happy Teams */
+.icons-happy-team .body {
+  border: 1.5px solid rgb(219 219 219);
+  padding: 10px 20px;
+  height: 90px;
+}
+.icons-happy-team .body .body-inside {
+  border-left: 5px solid rgb(255 162 0);
+  margin-left: 0;
+}
+/* end Happy Teams */
